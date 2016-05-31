@@ -1,0 +1,23 @@
+{
+    "name": "kriserhardt/ultracart",
+    "description": "Integrates the UltraCart Storefront into a SilverStripe site using the UltraCart RESTful API",
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/framework": ">= 3.3",
+        "composer/installers": "*"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Kris Erhardt",
+            "email": "kris@kriserhardt.ca",
+            "role": "developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/KrisErhardt/silverstripe-ultracart/issues"
+    },
+  	"extra": {
+  		"installer-name": "ultracart"
+  	}
+}
