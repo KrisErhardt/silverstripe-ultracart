@@ -2,6 +2,7 @@
     "name": "kriserhardt/ultracart",
     "description": "Integrates the UltraCart Storefront into a SilverStripe site using the UltraCart RESTful API",
     "type": "silverstripe-module",
+    "keywords": ["silverstripe", "ultracart"],
     "require": {
         "silverstripe/framework": ">= 3.3",
         "composer/installers": "*"
