@@ -19,6 +19,6 @@
         "issues": "https://github.com/KrisErhardt/silverstripe-ultracart/issues"
     },
   	"extra": {
-  		"installer-name": "ultracart"
+  	    "installer-name": "ultracart"
   	}
 }
