@@ -1,8 +1,10 @@
 <?php class UltracartProductAdmin extends ModelAdmin {
 
-	private static $menu_icon = ULTRACART_BASE . "images/treeicons/ultracart.png";
+	private static $menu_icon = "/ultracart/images/treeicons/ultracart.png";
 
 	private static $managed_models = array(
+		'UltracartStorefrontPage',
+		'UltracartCategoryPage',
 		'UltracartProduct'
 	);
 
